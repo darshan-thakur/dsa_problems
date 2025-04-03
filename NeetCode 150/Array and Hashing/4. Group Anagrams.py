@@ -13,5 +13,6 @@ class Solution:
 
         return list(registry.values())
 
+
 obj = Solution()    
 print(obj.groupAnagrams(["racecar","carrace","den","end","for","of"]))
